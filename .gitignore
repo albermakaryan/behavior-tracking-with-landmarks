@@ -1,0 +1,6 @@
+/runs/
+/src/runs/
+*.ipynb_checkpoints/
+*__pycache__/
+*.pt
+/inference/video/
