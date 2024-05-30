@@ -1,0 +1,5 @@
+ultralytics
+openpifpaf
+opencv-python
+matplotlib
+deep-sort-realtime
